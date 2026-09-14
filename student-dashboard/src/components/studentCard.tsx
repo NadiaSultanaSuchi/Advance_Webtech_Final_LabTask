@@ -7,7 +7,8 @@ export type Course = {
   color: string;
 };
 
-function StudentCard(props: {
+function StudentCard(props: 
+  {
   name: string;
   id: number;
   avatar: string;
